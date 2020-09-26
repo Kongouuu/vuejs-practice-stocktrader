@@ -1,16 +1,16 @@
 # A practice on Vue.js (Uses all I learned)
 
 ## Some ideas involved
-### Basics (bindings, computed variables, etc.)
-### Bootstrap website
-### Using Components
-### Communicate into component
-### Pass variable out from component
-### Transition animation
-### Vue Router
-### Vuex state management
-### Vue resource
-### HTTP request (in this project, communicate with firebase)
+### -Basics (bindings, computed variables, etc.)
+### -Bootstrap website
+### -Using Components
+### -Communicate into component
+### -Pass variable out from component
+### -Transition animation
+### -Vue Router
+### -Vuex state management
+### -Vue resource
+### -HTTP request (in this project, communicate with firebase)
 
 ## Explanations
 This is a one page application, where the user is given a certain amount of funds to do trading. The stock price will change daily by clicking next day, and the amount of stocks bought will be stored in the account. The user should profit by buying in low price and selling in high price.
